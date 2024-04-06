@@ -89,6 +89,11 @@ Now, you have completed the feature and is ready to commit your changes and push
 
 ```sh
 # Your input
+git add.
+git commit -m "commit message"
+git push origin feature/feat-111-login-with-google-sso
+
+then perform Pull request in Github repo UI
 ```
 </details>
 
