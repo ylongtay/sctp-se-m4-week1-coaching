@@ -94,6 +94,11 @@ git commit -m "commit message"
 git push origin feature/feat-111-login-with-google-sso
 
 then perform Pull request in Github repo UI
+
+READ up:
+git reset
+squash?
+git revert
 ```
 </details>
 
